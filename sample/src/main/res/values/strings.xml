@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RxSocketIO</string>
+    <string name="disconnect">Disconnect</string>
+</resources>
